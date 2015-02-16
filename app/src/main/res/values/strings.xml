@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Inmobiliaria</string>
+    <string name="anadir">AÑADIR</string>
+    <string name="title_activity_alta">Alta</string>
+    <string name="tipo">TIPO: </string>
+    <string name="calleynumero">CALLE Y NÚMERO: </string>
+    <string name="localidad">LOCALIDAD: </string>
+    <string name="precio">PRECIO: </string>
+    <string name="nuevoinmueble">NUEVO INMUEBLE</string>
+    <string name="fotos">FOTOS</string>
+    <string name="title_activity_secundaria">Secundaria</string>
+    <string name="editar">EDITAR</string>
+    <string name="borrar">BORRAR</string>
+    <string name="guardar">GUARDAR</string>
+    <string name="title_activity_editar">Editar</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_hacerfotos">Fotos</string>
+    <string name="volver">VOLVER</string>
+    <string name="subir">SUBIR INMUEBLES</string>
+    <string name="bajar">DESCARGAR INMUEBLES</string>
+    <string name="subido">SUBIDO A LA WEB:</string>
+    <string name="usuario">USUARIO</string>
+    <string name="direccion">DIRECCION:</string>
+</resources>
+
